@@ -27,8 +27,6 @@ A suggested repository layout for this project is:
 └── README.md
 ```
 
-> **Note:** The SemEval datasets are *not* included in this repo because of licensing. Please download them from the official sources (see **Datasets** section) and place them under the `data/` directory.
-
 ---
 
 ## 2. Tasks
@@ -279,8 +277,4 @@ If you use this project or ideas from it, please consider citing the original Se
 - Rosenthal et al., *SemEval-2017 Task 4: Sentiment Analysis in Twitter*.  
 - Nguyen et al., *BERTweet: A pre-trained language model for English Tweets*.  
 - Liu et al., *RoBERTa: A Robustly Optimized BERT Pretraining Approach*.
-
-You can also cite the project report:
-
-> *Tweet-Level and Topic-Based Sentiment Analysis on Twitter with BERTweet and RoBERTa: A SemEval-2017 Task 4 Study*, Deep Learning Final Project, [Your University], [Year].
 
