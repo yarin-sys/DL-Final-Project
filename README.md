@@ -4,6 +4,11 @@ This repository contains the code and report for our Deep Learning final project
 
 > **Tweet-Level and Topic-Based Sentiment Analysis on Twitter with BERTweet and RoBERTa: A SemEval-2017 Task 4 Study**
 
+## Team Members
+- **Raditya Maheswara** (23/516252/PA/22075)  
+- **Teuku Achmad Radi Syah** (23/511627/PA/21833)  
+- **Muhammad Rafif Akio Sarwadi** (23/511466/PA/21802)
+
 We fine-tune transformer-based models on the **SemEval-2017 Task 4** Twitter sentiment benchmark and evaluate them on:
 
 - **Subtask A – Tweet-level sentiment classification (3-way):**  
